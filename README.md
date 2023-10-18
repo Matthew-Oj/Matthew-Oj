@@ -5,7 +5,7 @@ I'm a recent civil engineering graduate from the University of Greenwich who is 
 ### What You'll Find Here
 🖥️ **Software Engineering**: I love building applications and exploring new technologies. You'll find projects related to software development, including web applications, scripts, and more.
 
-🤖 **Machine Learning**: My interest in AI and machine learning is ever-growing. I experiment with various ML models and projects to explore the power of data-driven solutions. I am currently working on getting something published 😄
+🤖 **Data Engineering & Machine Learning**: My interest in Data, AI and machine learning is ever-growing. I experiment with various ML models and projects to explore the power of data-driven solutions. I am currently working on getting something published 😄
 
 🌐 **Miscellaneous**: Occasionally, I might dabble in other tech-related fields or share useful resources and guides.
 
