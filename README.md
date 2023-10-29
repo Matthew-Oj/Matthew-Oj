@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### About Me
-I'm a recent civil engineering graduate from the University of Greenwich who is passionate about technology, software engineering, and machine learning. While my academic background is in civil engineering, my heart lies in the world of coding and innovation.
+I'm a recent civil engineering graduate from the University of Greenwich who is passionate about technology, software engineering, data engineering, and machine learning. While my academic background is in civil engineering, my heart lies in the world of coding and innovation.
 
 ### What You'll Find Here
 🤖 **Data Engineering & Machine Learning**: My interest in Data, AI and machine learning is ever-growing. I experiment with various ML models and projects to explore the power of data-driven solutions. I am currently working on getting something published 😄
