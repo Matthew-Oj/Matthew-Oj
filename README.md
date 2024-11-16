@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### About Me
-I'm a junior Data Engineer and a civil engineering graduate, who is passionate about technology, data engineering and software engineering. 
+I'm a junior data engineer and a civil engineering graduate, who is passionate about technology, data engineering and software engineering. 
 
 ### What You'll Find Here
 🤖 **Data Engineering**: My interest in Data, AI and machine learning is ever-growing. 
