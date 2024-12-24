@@ -1,17 +1,14 @@
-### Hi there 👋
-### About Me
-I'm a data engineer and a civil engineering graduate, who is passionate about technology, data engineering and software engineering. 
+# Hi there 👋  
 
-### What You'll Find Here
-🤖 **Data Engineering**: My interest in Data, AI and machine learning is ever-growing. 
+I'm a **Data Engineer** and **Civil Engineering** graduate passionate about technology, **software development**, and **data engineering**.  
 
-🖥️ **Software Engineering**: I love building applications and exploring new technologies. You'll find projects related to software development, including web applications, scripts, and more.
+## Key Technologies  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)  
 
-🚧 **Civil Engineering**: I have inclueded MATLAB scripts I created for assignments during my time as a student 😄.
+## What to Expect  
+💻 **Software Engineering**: Projects exploring web apps, scripts, and innovative tech.  
+📊 **Data Engineering**: Insights into AI, ML, and big data.  
+📐 **Civil Engineering**: MATLAB scripts from my student days.  
 
-🌐 **Miscellaneous**: Occasionally, I might dabble in other tech-related fields or share useful resources and guides.
-
-### Let's Connect
-Feel free to explore my projects and connect with me. If you have any questions, ideas, or just want to chat about technology, don't hesitate to reach out.
-
-📧 Email: [edafeoj@gmail.com](mailto:edafeoj@gmail.com)
+## Let's Connect  
+📧 [edafeoj@gmail.com](mailto:edafeoj@gmail.com)  
