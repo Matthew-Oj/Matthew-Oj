@@ -1,6 +1,6 @@
 Hi there! 👋
 
-🔭 Software Data Engineer focused on data & backend systems  
+🔭 Software Engineer focused on data & backend systems  
 🌱 Exploring backend systems, ML, Game Dev
 👯 Open to collaborating on projects  
 💬 Ask me about anything you like!
